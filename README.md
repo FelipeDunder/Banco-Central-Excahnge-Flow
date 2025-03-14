@@ -16,11 +16,11 @@ I utilize a alternative method for extract the data, why a Get API action is a P
 <li>Recurrency: Change by necessity your data uptade</li>
 <li>Data (Compose): The default is configurated for get a today currency value</li>
 <li>Upload file for URL: Change a URL for you necessity: 
-<ol>
+<ul>
   <li>@codigoMoeda: Add a currency you need </li>
   <li>@dataInicialCotacao & @dataFinalCotacao: get a data configured before on compose action; 
   <li> Destination File Path: Is where your file it will be saved. PS: Is necessary incluide a file name and .json, Example: Dolar.Json</li>
-</ol> 
+</ul> 
 </li>
 <li>Compose: Is configurated for read a Json file</li>
 <li>Create a Item: Create a Item on SharePoint List with a json values, change as your necessity</li>
