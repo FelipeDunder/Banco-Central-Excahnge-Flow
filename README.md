@@ -6,7 +6,7 @@ I utilize a alternative method for extract the data, why a Get API action is a P
 
 #### Steps: 
 <ol>
-  <li>Download a Microsoft.Flow</li>
+  <li>Download a ExchangeFlow.zip</li>
   <li>Import Flow in PowerAutomate Web</li>
   <li>Connect a Flow in your DataBase</li>
 </ol>
